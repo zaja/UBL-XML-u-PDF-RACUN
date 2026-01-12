@@ -1,7 +1,7 @@
 # XML Račun → PDF Konverter
 
 **Jednostavna aplikacija za pretvaranje XML eRačuna u PDF format**
-
+Download: https://github.com/zaja/UBL-XML-u-PDF-RACUN/archive/refs/heads/main.zip
 ---
 ![Model](https://github.com/zaja/UBL-XML-u-PDF-RACUN/blob/main/image.png?raw=true)
 ## O aplikaciji
