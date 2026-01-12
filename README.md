@@ -3,7 +3,7 @@
 **Jednostavna aplikacija za pretvaranje XML eRačuna u PDF format**
 
 ---
-
+![Model](https://github.com/zaja/UBL-XML-u-PDF-RACUN/blob/main/image.png?raw=true)
 ## O aplikaciji
 
 Ova aplikacija namijenjena je svima koji zaprime **eRačun u XML formatu bez PDF privitka**. Omogućuje jednostavno pretvaranje XML fakture u pregledni PDF dokument koji se može:
